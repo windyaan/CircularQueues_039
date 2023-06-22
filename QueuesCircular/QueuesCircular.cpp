@@ -70,5 +70,6 @@ public:
 			return;
 		}
 
+		cout << "\nElement is in the queue are: \n";
 	}
 };
